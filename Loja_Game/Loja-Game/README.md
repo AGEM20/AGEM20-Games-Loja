@@ -1,27 +1,43 @@
-# ProjetoLojaGame
+README - Atividade 1 - Implementação da Tela Inicial do site da Loja de Jogos no Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Descrição:
+Nesta atividade, você será responsável por implementar a tela inicial do site da loja de jogos utilizando o framework Angular. Você também deverá integrar o Bootstrap e o Angular Material para criar uma interface atraente e responsiva.
 
-## Development server
+Requisitos:
+Conhecimento da estrutura da linguagem TypeScript, incluindo:
+Instalação
+Sintaxe
+Diferenças entre TypeScript e JavaScript
+Estrutura orientada a objetos, incluindo:
+Classes e objetos
+Métodos
+Construtor
+Passos para Implementação:
+Estudo do Material Digital:
+Antes de iniciar a implementação, é crucial revisar os conteúdos relacionados ao desenvolvimento de componentes utilizando o Angular no Material Digital.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Configuração do Ambiente:
 
-## Code scaffolding
+Certifique-se de ter o Node.js e o Angular CLI instalados em sua máquina.
+Instale o Angular Material e o Bootstrap em seu projeto Angular.
+Criação dos Componentes:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Desenvolva os componentes necessários para a tela inicial, incluindo menu, conteúdo e rodapé.
+Implemente um formulário de login com os campos de usuário e senha.
+Integração com o Angular Material e Bootstrap:
 
-## Build
+Utilize os componentes fornecidos pelo Angular Material e Bootstrap para criar uma interface moderna e responsiva.
+Aplique estilos CSS aos componentes para melhorar a aparência da página.
+Testes e Revisão:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Teste a página em diferentes dispositivos e tamanhos de tela para garantir que seja responsiva.
+Verifique se todos os elementos da página estão funcionando corretamente e se a interface atende aos requisitos de design.
+Entrega:
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Ao concluir a implementação, verifique se todos os requisitos foram atendidos.
+Faça o commit do código para o repositório de controle de versão designado.
+Prepare-se para apresentar sua implementação e explicar as decisões de design e desenvolvimento tomadas durante o processo.
+Observações:
+Durante a implementação, consulte a documentação oficial do Angular, Angular Material e Bootstrap para obter informações detalhadas sobre como utilizar os componentes e recursos fornecidos por esses frameworks.
+Esteja preparado para realizar ajustes e refinamentos na implementação conforme necessário, com base no feedback recebido durante a revisão do projeto.
+Com essa orientação, você estará pronto para iniciar a implementação da tela inicial do site da loja de jogos utilizando o Angular, Bootstrap e Angular Material. Boa sorte!
