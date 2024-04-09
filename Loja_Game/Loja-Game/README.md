@@ -1,4 +1,4 @@
-README - Atividade 1 - Implementação da Tela Inicial do site da Loja de Jogos no Angular
+Atividade 1 - Implementação da Tela Inicial do site da Loja de Jogos no Angular
 
 Descrição:
 Nesta atividade, você será responsável por implementar a tela inicial do site da loja de jogos utilizando o framework Angular. Você também deverá integrar o Bootstrap e o Angular Material para criar uma interface atraente e responsiva.
